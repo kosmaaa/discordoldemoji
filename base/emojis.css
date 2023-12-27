@@ -1,1 +1,11 @@
 @import url(https://github.com/kosmaaa/discordoldemoji/tree/main/emojis/emoji/people.css)
+@namespace xlink 'http://www.w3.org/1999/xlink';
+.sprite__294b3 {
+	-webkit-mask: none !important;
+	background-color: transparent !important;
+	background-position: var(--custom-emoji-sprite-bg-position) !important;
+	background-size: var(--custom-emoji-sprite-bg-size) !important;
+}
+.spriteGreyscale__7b70f {
+	filter: grayscale(1) !important;
+}
